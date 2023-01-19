@@ -1,7 +1,8 @@
 
 #include <stdio.h>
 
-// Anton Herdin Ringstedt Klass TIEDB antonhr@kth.se
+// Anton Herdin Ringstedt Klass TIEDB 
+//First C project in KTH course
 
 void clockwork();
 int update_alarm();
